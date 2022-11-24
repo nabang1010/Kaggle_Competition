@@ -1,0 +1,125 @@
+{
+    "os": "Linux-5.4.0-132-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.15",
+    "heartbeatAt": "2022-11-23T17:36:35.333602",
+    "startedAt": "2022-11-23T17:36:33.550255",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train_vgg.py",
+    "codePath": "Digit_Recognizer/src/Classification/vgg/train_vgg.py",
+    "git": {
+        "remote": "git@github.com:nabang1010/Kaggle_Competition.git",
+        "commit": "05612ab0de337d0880a7f685607dc7224041ddbd"
+    },
+    "email": "nguyenanhbang10102000@gmail.com",
+    "root": "/home/nabang1010/workspace/nabang1010/Kaggle_Competition",
+    "host": "nabang1010",
+    "username": "nabang1010",
+    "executable": "/home/nabang1010/anaconda3/envs/nabang_datn/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2839.18325,
+        "min": 1400.0,
+        "max": 2900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1854.761,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1856.473,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 4163.093,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 4163.72,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 4163.754,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 4161.12,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1853.595,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1855.987,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1849.657,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1856.571,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 2701.916,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 1852.125,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 2461.495,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 2293.565,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 4162.876,
+            "min": 1400.0,
+            "max": 2900.0
+        },
+        {
+            "current": 4176.224,
+            "min": 1400.0,
+            "max": 2900.0
+        }
+    ],
+    "disk": {
+        "total": 193.97957611083984,
+        "used": 17.082626342773438
+    },
+    "gpu": "NVIDIA GeForce GTX 1660 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1660 Ti",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.566665649414062
+    }
+}

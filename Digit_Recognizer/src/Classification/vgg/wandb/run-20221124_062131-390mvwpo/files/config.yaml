@@ -1,0 +1,50 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.5
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.7.15
+    start_time: 1669245691.950081
+    t:
+      1:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      3:
+      - 1
+      - 13
+      - 23
+      4: 3.7.15
+      5: 0.13.5
+      8:
+      - 5
+batch_size:
+  desc: null
+  value: 8
+epochs:
+  desc: null
+  value: 20
+lr:
+  desc: null
+  value: 0.001
+model_type:
+  desc: null
+  value: vgg_16
+seed:
+  desc: null
+  value: 10
+weight_decay:
+  desc: null
+  value: 0.0001
